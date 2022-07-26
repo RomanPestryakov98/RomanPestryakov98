@@ -17,4 +17,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### 🏆 Моя статистика на Codewars:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Alexeyitm/badges/large)](https://www.codewars.com/users/Alexeyitm)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/RomanPestryakov98/badges/large)](https://www.codewars.com/users/Alexeyitm)
