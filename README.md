@@ -1,7 +1,7 @@
 ## Привет 👋 Меня зовут Роман Пестряков, я frontend-разработчик 👨‍💻
 ### ✉️ Контакты:
-- e-mail: pestr-roman@yandex.ru
-- Telegram: https://t.me/pestr_roman
+- 📧 e-mail: pestr-roman@yandex.ru
+- 🌐 Telegram: https://t.me/pestr_roman
 ### ☝ Приоритеты:
 - 💎 Стремлюсь писать чистый и поддерживаемый код
 - 🚀 Осваиваю новые технологии
@@ -16,3 +16,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🏆 Моя статистика на Codewars:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Alexeyitm/badges/large)](https://www.codewars.com/users/Alexeyitm)
