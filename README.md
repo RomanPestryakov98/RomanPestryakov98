@@ -19,5 +19,5 @@
 ### Моя статистика на Codewars:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/RomanPestryakov98/badges/large)](https://www.codewars.com/users/Alexeyitm)
 ### Моя статистика на Github:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPestryakov98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanPestryakov98)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPestryakov98)](https://github.com/anuraghazra/github-readme-stats)
